@@ -1,5 +1,5 @@
 # 🌟 John Paolo M. Rosales
-**Full-Stack Developer & Systems Innovator**  
+**Full-Stack Developer**  
 📍 Makati, Metro Manila • 📞 +63 961 542 8895 • ✉️ johnpaolorosales2@gmail.com  
 🔗 [linkedin.com/in/johnrosalesss](https://linkedin.com/in/johnrosalesss) • 🐙 [github.com/johnrosalesss](https://github.com/johnrosalesss)
 
@@ -10,20 +10,20 @@
 - **Full-stack systems** (Python/Flask, Java Spring Boot, PHP)
 - **Database architecture** (MySQL, enterprise system design)
 - **Agile project leadership** (Jira, Flutter mobile development)
-- **Process automation** (QR systems, Excel modeling)
+- **Process automation** (QR systems, Log Systems, HRIS, Excel modeling)
 
-**Technical Awards:**  
-🏆 Top 2 Graduating Student • 🥈 Leadership Award Bronze Medal • 🎖️ Best Thesis (Game Development)
+**Awards:**  
+🏆 Top 2 Batch 2025 • 🥈 Leadership Award Bronze Medal • 🎖️ Best Thesis (Game Development)
 
 ---
 
 ## 💻 **Technical Expertise**
 
 ### 🛠️ **Core Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
@@ -37,78 +37,101 @@
 
 ## 🏢 **Professional Experience**
 
-### **RAKSO Computer Technology Inc.** | Makati  
-📅 *Jan 2025 - May 2025*  
-👨‍💻 **Web Developer Intern**  
+### **Rakso Computer Technology Inc.** | Makati  
+📅 *January 2025 - May 2025*  
+👨‍💻 **Web Developer (Intern)**  
 
-- Engineered full-stack features using **Python, Flask, MySQL** stack  
-- Reduced bug resolution time by 30% through systematic log analysis  
-- Prototyped UI flows in Figma that improved user onboarding metrics  
+- Contributed to full-stack web application development using Python, Flask, and MySQL; designed system flows using Figma and executed test cases to validate feature implementation and catch regressions.
+- Documented technical specifications and system architectures; resolved development-stage bugs via log analysis and coordinated fixes with the backend team.
+
 
 ### **St. Paul University Manila**  
-📅 *May 2023 - Oct 2023*  
+📅 *May 2023 - October 2023*  
 🛠️ **Database Developer (Contract)**  
 
-- Deployed 2 enterprise systems serving **1,000+ users**  
-- Automated 70% of library workflows via **QR code integration**  
-- Cited in PAASCU accreditation for system innovation  
+- Developed and deployed two enterprise-level systems for administrative and library operations using Java Spring Boot, PHP, and MySQL, adopted over 1,000 users and cited in PAASCU accreditations.
+- Integrated QR code-based attendance and inventory features, automating manual workflows and improving data reliability and operational speed.
+
 
 ### **SM Development Corporation**  
-📅 *Jan 2021 - Dec 2022*  
-📊 **International Marketing Partner**  
+📅 *January 2021 - December 2022*  
+📊 **International Marketing Partner (Part-time)**  
 
-- Optimized ad spend efficiency by 25% using Meta/Google Ads  
-- Developed financial models that reduced client onboarding time  
+- Managed digital campaigns via Meta Business Suite, Google Ads, and YouTube ads; increased visibility and conversions while maintaining low acquisition costs.
+- Customized Excel-based financial models and provided technical assistance during client presentations and closings.
+
 
 ---
 
 ## 🎓 **Education**
-**BS Computer Science**  
+**Bachelor of Science in Computer Science**  
 *St. Paul University Manila (Aug 2021 - May 2025)*  
-- **GPA:** 3.7/4.0 • **Latin Honors:** Magna Cum Laude  
-- **Thesis:** Developed award-winning 2D educational game (Unity/C#)  
+- **Top 2 Graduating Batch 2025** | **Latin Honors:** Magna Cum Laude 
+- **Leadership Award:** Bronze Medalist | **Paulinian Ambassador 2023:** 1st Runner-Up
+
+**Accountancy Business and Management (ABM)**
+*Laguna State Polytechnic University (August 2019 - August 2021)*
+- Graduated with Honors
+- Academic Festival Online Debate – Bronze Medalist
 
 ---
 
 ## 🏆 **Key Projects**
 
 ### 🎮 **Oddinary Times (Unity Game)**
-- Built disaster preparedness game with **95% user satisfaction**  
-- Recognized as **Best Thesis** at university research forum  
+- Developed a 2D educational disaster preparedness game in Unity and C#, recognized as Best Thesis and presented at the St. Paul University Manila’s Annual Research Forum.
+- Tested and validated by 30+ users including developers and disaster safety officers, with positive feedback on impact and usability.
+- **Featured in FB Page:** [Official Invitation Link](https://www.facebook.com/share/p/1FbPRaPNjE/)
+
 
 ### 📱 **Payo Appointment System (Flutter)**
-- Led team of 5 to replace manual counseling scheduling  
-- Reduced scheduling errors by **80%** through digital automation  
+- Led the development of a mobile-first appointment system to replace manual student counseling scheduling using Flutter; finalized user stories, UI prototype, and feature backlog based on consultations with guidance counselors and admin offices.
+- Oversaw Agile sprint planning via Jira and ensured timely delivery by managing team velocity and aligning priorities with institutional needs.
 
+### 🛡️**INGAT: The Future of Crime Awareness Technology and Community Safety**
+- This project aims to revolutionize community safety by providing crime data location and date and safety alerts through a user-friendly mobile application.
+- **Youtube:** [INGAT Demo Video Pitch](https://www.youtube.com/watch?v=3yrb0YJSVOA)
+- **Notion:** [INGAT Documentation](https://www.notion.so/INGAT-The-Future-of-Crime-Awareness-Technology-and-Community-Safety-2f0b1d3c4a6e4f8b9c5d7c8e3f1a2b3c)
+
+### **🐍 SPU Manila Snake Game**
+🎮 A Python/Pygame demo for Open House 2023
+📅 Event Date: December 2, 2023
+🏛️ Venue: St. Paul University Manila (Founders Lobby)
+
+✨ **About**
+Developed by BS Computer Science students for SPU Manila's Open House, this game showcased:
+
+🐍 Classic Snake gameplay with SPU Manila twist
+💻 Python programming capabilities
+🎓 Interactive CS program introduction
+
+🚀 **Features**
+    ✅ Arrow key controls (↑↓←→)
+    ✅ Score tracking
+    ✅ Fullscreen toggle (Press F)
+    ✅ SPU-themed visuals
+**Team Lead: John Paolo Rosales**
+
+- **Github Repository:** [SPU Manila Snake Game App Download](https://github.com/johnrosalesss/college_fair_game)
+- **Event Invitation:** [SPU Manila Open House 2023](https://www.facebook.com/share/p/1CEpeGw2LQ/)
 ---
 
 ## 📜 **Certifications**
-- **Microsoft Certified:** Azure Fundamentals (AZ-900)  
-- **Udemy Certifications:** Java, PHP, SQL, UML, OOP,DSA   
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- [AZ-900: Microsoft Azure Fundamentals, Microsoft Certified - 2024](https://www.credly.com/badges/99ec1e0d-2bd5-458a-9d72-ad1e3e510586/linked_in_profile) 
+- [Absolute Introduction to Object-Oriented Programming in Java, Udemy - 2024](https://ude.my/UC-8f2c41e2-301c-495c-b890-86d866cca215) 
+- [UML and Object-Oriented Design Foundations, Udemy - 2024](https://www.udemy.com/certificate/UC-3804bd43-45d9-4db2-80bb-512364e3b9e2/)  
+- [Introduction to Data Structures & Algorithms in Java, Udemy - 2024](https://www.udemy.com/certificate/UC-d40e4aee-4fda-49b9-8688-8f1dbdf1b4e8/)
+- [SQL - Introduction to SQL with MySQL, Udemy - 2024 ](https://www.udemy.com/certificate/UC-63a60716-6549-4cc8-9f5e-28aa3a2ec27f/)
+- [Java 21 Programming Masterclass: Fundamentals for Beginners, Udemy - 2024](https://www.udemy.com/certificate/UC-e056bfed-0749-485d-b22b-24fb807b2aac/) 
+- [Intro To PHP for Web Development, Udemy - 2024](https://www.udemy.com/certificate/UC-ab7a63f8-c73d-4dc4-936c-f6617df10fc0/)
+- Build your brand with digital marketing planning, MSME Caravan (Google Program) - 2021
 
 ---
-
-## ✨ **Leadership & Activities**
-**Junior Philippine Computer Society**  
-- Organized 8+ tech workshops (Flutter, GitHub, UI/UX)  
-- Mentored 20+ freshman students in coding fundamentals  
-
-**University Technical Director**  
-- Designed AV systems for campus-wide events (3 annual festivals)  
-
----
-
-## 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=johnrosalesss&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=johnrosalesss&theme=radical)
-
-[![Visits](https://komarev.com/ghpvc/?username=johnrosalesss&color=blueviolet)](https://github.com/johnrosalesss)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bZuUw2kh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnrosales29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jrosalesss__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnrosalesss) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@johnpaolorosales1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnpaolorosales2@gmail.com) 
 # 🛠️ My Tech Stack
 
-## 🔥 **Highly Proficient** (With Project Experience)
+## 🔥 **Highly Proficient** (With Professional Experience)
 **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -138,8 +161,55 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
 # 📊 GitHub Stats:
+
+[![Visits](https://komarev.com/ghpvc/?username=johnrosalesss&color=blueviolet)](https://github.com/johnrosalesss)
 ![](https://nirzak-streak-stats.vercel.app/?user=johnrosalesss&theme=dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=johnrosalesss&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ✨ **Leadership**
+**Junior Philippine Computer Society – SPU Manila Chapter**		
+*Auditor | June 2024 – May 2025*
+- Organized workshops on Data Analytics, Chat fuel Chatbot, enhancing skills for 50+ students. 
+- Established a centralized resource directory for officers and moderators, migrating data from Google to Microsoft. 
+- Served as the Assistant Technical Director for Paskuhan 2024 at the Fleur de Lis Auditorium, overseeing stage lighting and sound cues.
+
+**Google Developer Student Clubs – SPU Manila Chapter** 		
+*Core Team Member | August 2023 – June 2024*
+- Coordinated events on GitHub, Flutter, and UI/UX practices, enhancing skills for 100+ students, non-academic staff, and charity partners.
+- Led documentation and community management efforts.
+
+**Junior Philippine Computer Society – SPU Manila Chapter**
+*Secretary | June 2023 – May 2024*		
+- Organized workshops on Microsoft Power Automate, PC Assembly Disassembly, enhancing skills for the entire Computer Science and Information Technology Programs. 
+- Served as the Technical Director for major institutional events at the Fleur de Lis Auditorium, overseeing stage lighting and sound cues.
+
+**Junior Philippine Computer Society – SPU Manila Chapter**		
+*Core Team Member | June 2022 – May 2023*
+- Served as the Technical Director for Paskuhan 2022 at the Fleur de Lis Auditorium, overseeing stage lighting and sound cues.
+- Established a centralized resource directory for officers starting from A.Y. 2018, migrating data to Google. 
+
+**Junior Philippine Computer Society – SPU Manila Chapter**		
+*1st Year Class Representative | October 2021 – May 2022*
+- Hosted and organized technical workshops on GitHub and Blockchain, facilitating smooth event flow and participant engagement.
+- Served as a student representative for all first-year Computer Science and IT students, voicing their concerns and interests to faculty and administration
+
+
+###  **Activities**
+**University Technical Director**  
+*St. Paul University Manila – Fleur de Lis Auditorium | December 2022 – December 2025*
+- Designed AV systems for campus-wide events. (3 annual Christmas festivals and Teacher's Day  Celebration)
+- Managed technical operations for major events, including sound, lighting, and video production.
+- Collaborated with event organizers to ensure seamless execution of technical requirements.
+- **Featured in FB Page:** [SPUM Paskong Paulino](https://www.facebook.com/share/14EB7p5uL2B/)
+
+**Crypto and Blockchain Enthusiast**
+*Self-initiated | April 2021 – May 2022*
+- Trade cryptocurrencies and NFTs, gaining insights into market trends and blockchain technology.
+- Participated in online communities and forums to discuss crypto trends and share knowledge.
+
+## 📝 **Publications**
+TBA
+---
 
