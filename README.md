@@ -1,87 +1,109 @@
 # 🌟 John Paolo M. Rosales
-📍 Makati, Metro Manila • 📞 +63 916 285 6862 • ✉️ johnpaolorosales2@gmail.com • 🔗 [linkedin.com/in/johnmuererosales/](https://linkedin.com/in/johnmuererosales/)
+**Full-Stack Developer & Systems Innovator**  
+📍 Makati, Metro Manila • 📞 +63 961 542 8895 • ✉️ johnpaolorosales2@gmail.com  
+🔗 [linkedin.com/in/johnrosalesss](https://linkedin.com/in/johnrosalesss) • 🐙 [github.com/johnrosalesss](https://github.com/johnrosalesss)
 
 ---
-
-## 🚀 **About Me**
-**Results-driven Software Engineer** with expertise in:
-- 🤖 Process automation & system optimization
-- 🗃️ Database architecture & management
-- 🎯 Full-stack development solutions
-- ⚡ Agile project execution
 
 ## 🚀 **Professional Profile**
-**Full-Stack Developer** specializing in:
-- 🤖 Process automation & AI solutions
-- 🗃️ Database architecture & optimization
-- 🎯 End-to-end system development
-- ⚡ Agile project leadership
-  
-**Tech Specialties**:  
-☕ Java | 🌐 PHP | 🐍 Python | 🗃️ MySQL | 🎮 Unity | 📊 Data Science  
+**Magna Cum Laude graduate** with 2+ years of applied development experience across:
+- **Full-stack systems** (Python/Flask, Java Spring Boot, PHP)
+- **Database architecture** (MySQL, enterprise system design)
+- **Agile project leadership** (Jira, Flutter mobile development)
+- **Process automation** (QR systems, Excel modeling)
 
-Passionate about building **scalable, user-centric systems** that bridge technology and real-world impact. Thrive in collaborative environments where I can leverage both technical skills and leadership experience to deliver exceptional results.
+**Technical Awards:**  
+🏆 Top 2 Graduating Student • 🥈 Leadership Award Bronze Medal • 🎖️ Best Thesis (Game Development)
 
 ---
 
-## 🏆 **Professional Highlights**
-### 💼 **Database Developer**  
-@ St. Paul University Manila *(May 2023 – Oct 2023)*  
-- Built **2 custom software solutions** serving 500+ users  
-- Implemented **QR code system** that reduced manual processes by 70%  
-- Automated reporting for library attendance and equipment tracking  
+## 💻 **Technical Expertise**
 
-### 🎓 **Education**  
-**BS Computer Science** @ St. Paul University Manila *(2021-2025)*  
-- 🏅 President's Lister (GWA: 95)  
-- 🎖️ Paulinian Ambassador Award  
-- Technical Director for university events  
+### 🛠️ **Core Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 
----
-
-**Soft Skills**:  
-👔 Leadership | 🤝 Team Collaboration | 🧩 Problem Solving | ⏱️ Agile Methodologies
+### 🧰 **Tools & Frameworks**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
 ---
 
-## 🏗️ **Key Projects**
-### 📱 **Payo App** *(Team Lead, 2024)*
-- Developed university counseling scheduling system  
-- Integrated Jira for agile project management  
-- Coordinated cross-functional team of 5 members  
+## 🏢 **Professional Experience**
 
-### 🎮 **Oddinary Times Game** *(Developer, 2024)*
-- Built 2D educational game in Unity  
-- Received 95% positive feedback from 30+ testers  
-- Featured disaster preparedness curriculum  
+### **RAKSO Computer Technology Inc.** | Makati  
+📅 *Jan 2025 - May 2025*  
+👨‍💻 **Web Developer Intern**  
+
+- Engineered full-stack features using **Python, Flask, MySQL** stack  
+- Reduced bug resolution time by 30% through systematic log analysis  
+- Prototyped UI flows in Figma that improved user onboarding metrics  
+
+### **St. Paul University Manila**  
+📅 *May 2023 - Oct 2023*  
+🛠️ **Database Developer (Contract)**  
+
+- Deployed 2 enterprise systems serving **1,000+ users**  
+- Automated 70% of library workflows via **QR code integration**  
+- Cited in PAASCU accreditation for system innovation  
+
+### **SM Development Corporation**  
+📅 *Jan 2021 - Dec 2022*  
+📊 **International Marketing Partner**  
+
+- Optimized ad spend efficiency by 25% using Meta/Google Ads  
+- Developed financial models that reduced client onboarding time  
 
 ---
 
-**Organizational Experience**:
-### 🤝 **Junior Philippine Computer Society**  
-*(Secretary | Auditor | Core Member | 2021-Present)*  
-- 🎤 Organized 8+ tech workshops (Flutter, GitHub, UI/UX)  
-- 📂 Created centralized resource repository for 50+ members  
-- 👥 Mentored 20+ freshman students  
-
-### 🎛️ **Technical Working Groups**  
-- Designed lighting systems for 3 annual university festivals  
-- Streamlined event tech checklists adopted campus-wide  
+## 🎓 **Education**
+**BS Computer Science**  
+*St. Paul University Manila (Aug 2021 - May 2025)*  
+- **GPA:** 3.7/4.0 • **Latin Honors:** Magna Cum Laude  
+- **Thesis:** Developed award-winning 2D educational game (Unity/C#)  
 
 ---
 
-## 📜 **Certifications & Training**
-### 🏅 **Technical Certifications**
-- Microsoft Certified: Azure Fundamentals (AZ-900) - 2024
-- Oracle Certified: Java Foundations - 2024
-- Udemy: Data Structures & Algorithms in Java - 2024
-- Udemy: Python for Data Science (NumPy/Pandas) - 2024
-- Udemy: SQL Masterclass (MySQL) - 2024
+## 🏆 **Key Projects**
 
-### 🎤 **Professional Development**
-- Accenture Technology Talk: Microsoft AI - 2024
-- John Maxwell Leadership Training - 2021
+### 🎮 **Oddinary Times (Unity Game)**
+- Built disaster preparedness game with **95% user satisfaction**  
+- Recognized as **Best Thesis** at university research forum  
 
+### 📱 **Payo Appointment System (Flutter)**
+- Led team of 5 to replace manual counseling scheduling  
+- Reduced scheduling errors by **80%** through digital automation  
+
+---
+
+## 📜 **Certifications**
+- **Microsoft Certified:** Azure Fundamentals (AZ-900)  
+- **Udemy Certifications:** Java, PHP, SQL, UML, OOP,DSA   
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn  
+
+---
+
+## ✨ **Leadership & Activities**
+**Junior Philippine Computer Society**  
+- Organized 8+ tech workshops (Flutter, GitHub, UI/UX)  
+- Mentored 20+ freshman students in coding fundamentals  
+
+**University Technical Director**  
+- Designed AV systems for campus-wide events (3 annual festivals)  
+
+---
+
+## 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api?username=johnrosalesss&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=johnrosalesss&theme=radical)
+
+[![Visits](https://komarev.com/ghpvc/?username=johnrosalesss&color=blueviolet)](https://github.com/johnrosalesss)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bZuUw2kh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnrosales29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jrosalesss__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnrosalesss) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@johnpaolorosales1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnpaolorosales2@gmail.com) 
 # 🛠️ My Tech Stack
