@@ -1,19 +1,27 @@
-# 🌟 John Paolo M. Rosales
-**Full-Stack Developer**  
+# 💻 John Paolo M. Rosales  
+**Full-Stack Developer | Cloud-Aware | Builder of Production Systems**  
 📍 Makati, Metro Manila • 📞 +63 961 542 8895 • ✉️ johnpaolorosales2@gmail.com  
-🔗 [linkedin.com/in/johnrosalesss](https://linkedin.com/in/johnrosalesss) • 🐙 [github.com/johnrosalesss](https://github.com/johnrosalesss)
+🔗 [LinkedIn](https://linkedin.com/in/johnrosalesss) • 🐙 [GitHub](https://github.com/johnrosalesss)
+
 
 ---
 
-## 🚀 **Professional Profile**
-**Magna Cum Laude graduate** with 2+ years of applied development experience across:
-- **Full-stack systems** (Python/Flask, Java Spring Boot, PHP)
-- **Database architecture** (MySQL, enterprise system design)
-- **Agile project leadership** (Jira, Flutter mobile development)
-- **Process automation** (QR systems, Log Systems, HRIS, Excel modeling)
+## 👋 About Me
+🧠 Passionate full-stack developer with strong grounding in backend, cloud fundamentals, and system design.  
+🥈 Top 2 graduate of SPU Manila (Class of 2025), known for delivering university-contracted software and leading org-wide tech initiatives.  
+🚀 Open to opportunities in backend development, cloud integration, and enterprise systems.
+
+
+### 💡 Core Expertise  
+- **Full-Stack Development:** Python (Flask), Java (Spring Boot), PHP – delivering web and enterprise-grade systems  
+- **Database & System Architecture:** MySQL, ER modeling, QR-based automation, and user-centric workflow design  
+- **Agile Engineering & Team Leadership:** Led multi-developer sprints using Jira and GitHub; delivered mobile-first apps in Flutter  
+- **Process Optimization:** Developed HRIS, attendance systems, and digital logbooks to replace manual workflows and enhance efficiency  
+
+📊 Also experienced in cloud fundamentals (Microsoft Azure Certified), data analytics (Python), and digital marketing tools (Meta, Google Ads).  
 
 **Awards:**  
-🏆 Top 2 Batch 2025 • 🥈 Leadership Award Bronze Medal • 🎖️ Best Thesis (Game Development)
+🥉 Leadership Award Bronze Medal | 🎖️ Best Thesis (Game Development) | 🥇 Paulinian Ambassador 2023 (1st Runner-Up)
 
 ---
 
@@ -117,7 +125,7 @@ Developed by BS Computer Science students for SPU Manila's Open House, this game
 
     ✅ SPU-themed visuals
 
-**Team Lead: John Paolo Rosales**
+**Team Lead:** John Paolo Rosales
 
 - **Github Repository:** [SPU Manila Snake Game App Download](https://github.com/johnrosalesss/college_fair_game)
 - **Event Invitation:** [SPU Manila Open House 2023](https://www.facebook.com/share/p/1CEpeGw2LQ/)
@@ -183,7 +191,8 @@ Developed by BS Computer Science students for SPU Manila's Open House, this game
 - Established a centralized resource directory for officers and moderators, migrating data from Google to Microsoft. 
 - Served as the Assistant Technical Director for Paskuhan 2024 at the Fleur de Lis Auditorium, overseeing stage lighting and sound cues.
 
-**Google Developer Student Clubs – SPU Manila Chapter** 		
+**Google Developer Student Clubs – SPU Manila Chapter**
+
 *Core Team Member | August 2023 – June 2024*
 - Coordinated events on GitHub, Flutter, and UI/UX practices, enhancing skills for 100+ students, non-academic staff, and charity partners.
 - Led documentation and community management efforts.
