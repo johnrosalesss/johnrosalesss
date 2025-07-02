@@ -178,6 +178,7 @@ Developed by BS Computer Science students for SPU Manila's Open House, this game
 # 📊 GitHub Stats:
 
 [![Visits](https://komarev.com/ghpvc/?username=johnrosalesss&color=blueviolet)](https://github.com/johnrosalesss)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=johnrosalesss&theme=dark&hide_border=false)<br/>
 
 ---
