@@ -65,7 +65,7 @@
 
 ## 🎓 **Education**
 **Bachelor of Science in Computer Science**  
-*St. Paul University Manila (Aug 2021 - May 2025)*  
+*St. Paul University Manila (August 2021 - May 2025)*  
 - **Top 2 Graduating Batch 2025** | **Latin Honors:** Magna Cum Laude 
 - **Leadership Award:** Bronze Medalist | **Paulinian Ambassador 2023:** 1st Runner-Up
 
@@ -102,14 +102,21 @@
 Developed by BS Computer Science students for SPU Manila's Open House, this game showcased:
 
 🐍 Classic Snake gameplay with SPU Manila twist
+
 💻 Python programming capabilities
+
 🎓 Interactive CS program introduction
 
 🚀 **Features**
+
     ✅ Arrow key controls (↑↓←→)
+
     ✅ Score tracking
+    
     ✅ Fullscreen toggle (Press F)
+
     ✅ SPU-themed visuals
+
 **Team Lead: John Paolo Rosales**
 
 - **Github Repository:** [SPU Manila Snake Game App Download](https://github.com/johnrosalesss/college_fair_game)
@@ -170,6 +177,7 @@ Developed by BS Computer Science students for SPU Manila's Open House, this game
 
 ## ✨ **Leadership**
 **Junior Philippine Computer Society – SPU Manila Chapter**		
+
 *Auditor | June 2024 – May 2025*
 - Organized workshops on Data Analytics, Chat fuel Chatbot, enhancing skills for 50+ students. 
 - Established a centralized resource directory for officers and moderators, migrating data from Google to Microsoft. 
@@ -181,30 +189,35 @@ Developed by BS Computer Science students for SPU Manila's Open House, this game
 - Led documentation and community management efforts.
 
 **Junior Philippine Computer Society – SPU Manila Chapter**
+
 *Secretary | June 2023 – May 2024*		
 - Organized workshops on Microsoft Power Automate, PC Assembly Disassembly, enhancing skills for the entire Computer Science and Information Technology Programs. 
 - Served as the Technical Director for major institutional events at the Fleur de Lis Auditorium, overseeing stage lighting and sound cues.
 
-**Junior Philippine Computer Society – SPU Manila Chapter**		
+**Junior Philippine Computer Society – SPU Manila Chapter**	
+
 *Core Team Member | June 2022 – May 2023*
 - Served as the Technical Director for Paskuhan 2022 at the Fleur de Lis Auditorium, overseeing stage lighting and sound cues.
 - Established a centralized resource directory for officers starting from A.Y. 2018, migrating data to Google. 
 
-**Junior Philippine Computer Society – SPU Manila Chapter**		
+**Junior Philippine Computer Society – SPU Manila Chapter**	
+
 *1st Year Class Representative | October 2021 – May 2022*
 - Hosted and organized technical workshops on GitHub and Blockchain, facilitating smooth event flow and participant engagement.
 - Served as a student representative for all first-year Computer Science and IT students, voicing their concerns and interests to faculty and administration
 
 
-###  **Activities**
+###  **🙌 Activities**
 **University Technical Director**  
+
 *St. Paul University Manila – Fleur de Lis Auditorium | December 2022 – December 2025*
 - Designed AV systems for campus-wide events. (3 annual Christmas festivals and Teacher's Day  Celebration)
 - Managed technical operations for major events, including sound, lighting, and video production.
 - Collaborated with event organizers to ensure seamless execution of technical requirements.
 - **Featured in FB Page:** [SPUM Paskong Paulino](https://www.facebook.com/share/14EB7p5uL2B/)
 
-**Crypto and Blockchain Enthusiast**
+**💰Crypto and Blockchain Enthusiast**
+
 *Self-initiated | April 2021 – May 2022*
 - Trade cryptocurrencies and NFTs, gaining insights into market trends and blockchain technology.
 - Participated in online communities and forums to discuss crypto trends and share knowledge.
