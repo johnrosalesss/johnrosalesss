@@ -109,11 +109,11 @@
 ✨ **About**
 Developed by BS Computer Science students for SPU Manila's Open House, this game showcased:
 
-🐍 Classic Snake gameplay with SPU Manila twist
+    🐍 Classic Snake gameplay with SPU Manila twist
 
-💻 Python programming capabilities
+    💻 Python programming capabilities
 
-🎓 Interactive CS program introduction
+    🎓 Interactive CS program introduction
 
 🚀 **Features**
 
